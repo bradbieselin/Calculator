@@ -9,5 +9,43 @@
 }
 
 .result {
-    
+    background: black;
+    width: 100%;
+    align-items: stretch;
+    font-size: 20px;
+}
+
+.clear {
+    background: silver;
+    align-items: stretch;
+    font-size: 20px;
+    width: 49.5%;
+    justify-content: space-between;
+    margin-bottom: .5%;
+}
+
+.backspace {
+    background: silver;
+    width: 24.5%;
+    justify-content: space-between;
+    margin-bottom: .5%;
+}
+
+.math {
+    background: rgb(255, 153, 0);
+    width: 24.5%;
+    color: white;
+    font-size: 25px;
+    justify-content: space-between;
+    margin-bottom: .5%;
+}
+
+.numbers {
+    background: silver;
+    width: 25%;
+}
+
+.zero {
+    background: silver;
+    width: 75%;
 }
