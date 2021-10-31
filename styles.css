@@ -6,11 +6,16 @@
     background: black;
 }
 
+.screen {
+    font-size: 40px;
+    text-align: right;
+    padding: 20px 5px;
+}
+
 .result {
     background: black;
-    width: 100%;
-    align-items: stretch;
-    font-size: 20px;
+    width: 300px;
+    color: white;
 }
 
 .clear {
